@@ -32,3 +32,18 @@
 {
   "question": "What is your favorite programming language?"
 }
+
+
+
+### 2. Add Options to Poll
+
+
+- **URL:** `POST /addOption`
+- **Request JSON:**
+```{
+  "pollId": 1,
+  "option": "Java"
+}
+
+
+
