@@ -8,7 +8,7 @@
 - 2. Add multiple options to polls
 - 3. Vote on poll options
 - 4. View poll results
-- 5. Simple REST APIs for easy testing with Postman or any API client
+- 5. Simple REST APIs for easy testing with Postman or any API client 
 
 ---
 
